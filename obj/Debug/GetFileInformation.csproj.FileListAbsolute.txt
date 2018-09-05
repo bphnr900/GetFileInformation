@@ -1,0 +1,15 @@
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\bin\Debug\GetFileInformation.exe.config
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\bin\Debug\GetFileInformation.exe
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\bin\Debug\GetFileInformation.pdb
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\obj\Debug\GetFileInformation.csprojAssemblyReference.cache
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\obj\Debug\MainWindow.g.cs
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\obj\Debug\App.g.cs
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\obj\Debug\GetFileInformation_MarkupCompile.cache
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\obj\Debug\GetFileInformation_MarkupCompile.lref
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\obj\Debug\MainWindow.baml
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\obj\Debug\GetFileInformation.g.resources
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\obj\Debug\GetFileInformation.Properties.Resources.resources
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\obj\Debug\GetFileInformation.csproj.GenerateResource.cache
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\obj\Debug\GetFileInformation.csproj.CoreCompileInputs.cache
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\obj\Debug\GetFileInformation.exe
+C:\Users\yuta\source\repos\GetFileInformation\GetFileInformation\obj\Debug\GetFileInformation.pdb
